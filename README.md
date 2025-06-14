@@ -6,7 +6,6 @@ A fully responsive weather application that allows users to get real-time weathe
 
 ## 📌 Table of Contents
 
-- [Demo](#-demo)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Project Structure](#-project-structure)
@@ -18,13 +17,6 @@ A fully responsive weather application that allows users to get real-time weathe
 - [Future Improvements](#-future-improvements)
 - [License](#-license)
 - [Author](#-author)
-
----
-
-## 🎬 Demo
-
-Live Demo: *[Coming Soon if deployed]*  
-Or run it locally following the steps below.
 
 ---
 
