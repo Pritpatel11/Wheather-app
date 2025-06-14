@@ -66,7 +66,6 @@ weather-app/
 ```
 
 ---
-S
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -147,6 +146,6 @@ Feel free to fork, modify, and share!
 
 **PRITKUMAR PATEL**  
 📧 Contact: [pritpatel1179@gmail.com]  
-🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
+🌐 GitHub: [https://github.com/pritpatel11](https://github.com/pritpatel11)
 
 ---
