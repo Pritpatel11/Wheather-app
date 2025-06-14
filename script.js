@@ -2,7 +2,7 @@ let inputval = document.querySelector("input");
 let btn = document.querySelector("button");
 let icon = document.querySelector(".icon");
 let body = document.querySelector(".body")
-const ApiKey = "30cb4a598116d86f7c0b50dbd6722408"
+const ApiKey = ""  // Enter Your Api Key..
 let Api = "https://api.openweathermap.org/data/2.5/weather?units=metric";
 
 async function CheckWeather(city){
